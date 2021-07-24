@@ -16,3 +16,5 @@ class App extends React.Component {
 }
 
 export default App;
+
+//API KEY ftIHjZPAM3MlWZgx0TJSu7LrCUd3C7CaYYcJMQCiXwg
