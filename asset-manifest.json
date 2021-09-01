@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React_Unsplash_Pics/static/js/main.baffb45c.chunk.js",
+    "main.js.map": "/React_Unsplash_Pics/static/js/main.baffb45c.chunk.js.map",
+    "runtime-main.js": "/React_Unsplash_Pics/static/js/runtime-main.dbb14dca.js",
+    "runtime-main.js.map": "/React_Unsplash_Pics/static/js/runtime-main.dbb14dca.js.map",
+    "static/js/2.2aee1f14.chunk.js": "/React_Unsplash_Pics/static/js/2.2aee1f14.chunk.js",
+    "static/js/2.2aee1f14.chunk.js.map": "/React_Unsplash_Pics/static/js/2.2aee1f14.chunk.js.map",
+    "index.html": "/React_Unsplash_Pics/index.html",
+    "precache-manifest.176b704dfc318b54ba5a7efb955987cf.js": "/React_Unsplash_Pics/precache-manifest.176b704dfc318b54ba5a7efb955987cf.js",
+    "service-worker.js": "/React_Unsplash_Pics/service-worker.js",
+    "static/js/2.2aee1f14.chunk.js.LICENSE.txt": "/React_Unsplash_Pics/static/js/2.2aee1f14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb14dca.js",
+    "static/js/2.2aee1f14.chunk.js",
+    "static/js/main.baffb45c.chunk.js"
+  ]
+}
